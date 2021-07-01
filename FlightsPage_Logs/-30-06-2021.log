@@ -1,0 +1,670 @@
+05:03:33.299  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+05:08:53.513  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+05:08:53.801  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+05:08:54.414  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+05:08:54.796  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+05:09:29.379  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+05:09:29.677  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+05:09:30.254  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+05:09:30.614  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+05:09:30.865  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:18:01.886  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:18:02.035  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:18:02.763  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:18:03.342  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:18:03.726  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:18:43.555  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:18:43.725  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:18:44.356  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:18:44.956  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:18:45.362  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:29:36.780  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:29:36.896  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:29:37.590  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:29:37.997  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:29:38.585  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:29:38.916  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:29:39.159  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:30:18.308  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:30:18.542  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:30:19.336  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:30:19.975  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:30:20.609  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:30:21.113  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:30:21.362  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:31:35.633  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:31:35.760  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:31:36.537  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:31:36.931  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:31:37.512  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:31:37.887  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:31:38.139  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:31:48.207  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:31:48.369  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:31:49.102  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:31:49.544  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:31:50.178  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:31:50.526  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:31:50.787  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:41:16.728  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:41:16.851  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:41:17.610  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:41:18.051  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:41:18.615  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:41:18.977  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:41:19.227  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:41:30.629  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:41:30.849  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:41:31.562  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:41:32.010  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:41:32.591  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:41:32.950  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:41:33.191  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:43:44.980  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:43:45.103  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:43:45.867  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:43:46.339  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:43:46.929  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:43:47.288  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:43:47.539  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:43:59.765  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:44:00.130  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:44:01.463  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:44:02.236  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:44:02.944  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:44:03.400  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:44:10.091  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:48:49.650  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:48:49.800  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:48:50.649  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:48:51.065  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:48:51.635  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:48:51.978  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:48:52.227  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+06:49:38.351  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+06:49:38.505  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+06:49:39.237  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+06:49:39.659  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+06:49:40.256  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+06:49:40.610  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+06:49:40.857  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:22:50.987  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:22:51.162  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:22:51.918  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:22:52.338  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:22:52.901  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:22:53.242  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:22:53.504  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:28:25.692  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:28:25.826  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:28:26.491  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:28:26.945  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:28:27.520  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:28:27.866  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:28:28.115  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:28:49.228  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:28:49.366  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:28:50.064  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:28:50.473  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:28:51.028  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:28:51.366  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:28:51.606  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:30:39.256  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:30:39.389  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:30:40.071  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:30:40.500  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:30:41.079  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:30:41.413  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:30:41.653  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:30:52.667  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:30:52.907  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:30:53.650  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:30:54.073  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:30:54.648  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:30:54.994  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:30:55.236  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:58:39.595  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:58:39.715  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:58:40.410  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:58:40.839  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:58:41.432  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:58:41.772  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:58:42.021  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+07:58:53.370  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+07:58:53.639  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+07:58:54.301  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+07:58:54.713  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+07:58:55.328  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+07:58:55.677  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+07:58:55.924  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:00:08.671  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+08:00:08.779  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+08:00:09.431  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:00:09.843  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:00:10.436  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:00:10.782  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+08:00:11.044  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:00:38.545  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+08:00:38.729  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+08:00:39.531  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:00:40.041  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:00:40.644  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:00:41.038  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+08:00:47.508  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:01:48.144  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:01:48.483  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:01:49.062  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:01:49.424  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:01:49.690  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:08:42.092  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+08:08:42.184  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+08:08:42.849  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:08:43.323  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:08:43.914  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:08:44.260  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+08:08:44.506  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:08:54.750  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+08:08:54.945  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+08:08:55.643  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:08:56.086  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:08:56.690  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:08:57.029  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+08:08:57.285  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:09:31.846  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+08:09:31.968  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+08:09:32.648  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:09:33.075  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:09:33.647  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:09:33.990  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+08:09:34.237  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+08:09:45.136  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+08:09:45.429  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+08:09:46.066  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+08:09:46.654  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+08:09:47.283  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+08:09:47.671  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+08:09:47.909  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+09:17:32.574  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+09:17:32.744  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+09:17:33.343  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+09:17:33.833  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+09:17:34.400  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+09:17:34.703  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+09:51:08.496  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+09:51:08.613  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+09:51:09.049  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+09:51:09.577  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+09:51:10.149  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+09:51:10.484  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+09:51:12.190  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+09:56:23.882  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+09:56:24.994  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+09:56:25.381  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+09:56:25.815  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+09:56:26.398  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+09:56:26.708  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+09:56:28.448  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+09:59:43.907  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+10:01:00.348  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+10:01:01.458  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+10:01:01.822  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+10:01:02.251  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+10:01:02.825  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+10:01:03.137  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+10:01:04.886  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+10:04:58.712  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+10:04:58.949  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+10:04:59.456  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+10:04:59.898  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+10:05:00.471  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+10:05:00.767  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+10:15:11.124  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+10:15:11.366  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+10:15:11.763  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+10:15:12.223  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+10:15:12.803  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+10:15:13.101  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+10:15:14.793  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+11:20:19.455  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+11:21:41.158  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+11:23:45.116  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+11:27:46.835  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+11:56:51.544  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:06:49.130  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:06:49.401  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:06:49.800  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:06:50.237  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:06:50.803  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:06:51.093  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:06:52.845  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:26:50.704  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:26:50.969  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:26:51.547  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:26:52.006  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:26:52.588  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:26:52.887  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:26:54.611  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:33:18.648  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:33:18.863  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:33:19.314  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:33:19.771  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:33:20.357  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:33:20.659  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:33:22.335  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:39:45.060  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:39:45.315  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:39:45.730  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:39:46.247  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:39:46.816  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:39:47.109  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:39:47.362  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+12:39:48.572  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+12:39:48.812  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:39:48.818  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page
+12:41:05.841  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:41:06.070  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:41:06.479  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:41:06.988  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:41:07.637  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:41:07.946  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:41:08.190  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+12:41:09.336  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+12:41:09.585  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:41:09.593  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page
+12:44:02.372  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:44:02.636  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:44:03.071  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:44:03.536  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:44:04.141  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:44:04.481  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:44:04.778  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+12:44:05.923  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+12:44:06.165  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:44:06.178  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page
+12:49:14.492  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+12:49:14.694  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+12:49:15.099  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+12:49:15.567  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+12:49:16.146  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+12:49:16.466  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+12:49:16.723  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+12:49:17.903  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+12:49:18.150  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+12:49:18.162  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page
+12:49:19.177  INFO   POMclasses.BaseClass -Scenario is successfull and all files are closed
+13:29:58.789  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+13:29:59.161  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+13:29:59.893  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+13:30:00.271  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+13:30:00.850  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+13:30:01.179  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+13:30:01.443  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+13:30:02.164  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+13:30:20.548  ERROR  StepDefinitions.Hooks -The scenario got failedAll search fields are entered except checkboxes and increasing just no.of child.34
+13:47:08.941  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+13:47:09.214  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+13:47:09.918  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+13:47:10.244  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+13:47:10.811  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+13:47:11.134  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+13:47:11.374  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+13:47:42.219  ERROR  StepDefinitions.Hooks -The scenario got failedAll search fields are entered except checkboxes and increasing just no.of child.34
+13:47:43.507  INFO   POMclasses.BaseClass -Scenario is successfull and all files are closed
+13:49:19.997  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+13:49:20.294  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+13:49:20.939  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+13:49:21.259  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+13:49:21.813  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+13:49:22.138  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+13:49:22.412  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+13:49:30.099  ERROR  StepDefinitions.Hooks -The scenario got failedAll search fields are entered except checkboxes and increasing just no.of child.34
+13:57:32.310  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+13:57:32.548  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+13:57:33.223  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+13:57:33.607  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+13:57:34.198  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+13:57:34.536  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+13:57:34.798  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+13:58:05.830  ERROR  StepDefinitions.Hooks -The scenario got failedAll search fields are entered except checkboxes and increasing just no.of child.34
+13:58:07.206  INFO   POMclasses.BaseClass -Scenario is successfull and all files are closed
+14:01:12.555  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:01:12.794  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:01:13.487  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:01:13.813  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:01:14.404  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:01:14.731  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:01:14.981  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:01:15.744  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:01:16.011  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:01:16.011  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:01:16.244  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:01:16.495  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:01:16.499  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page
+14:01:47.170  ERROR  StepDefinitions.Hooks -The scenario got failedAll search fields are entered except checkboxes and increasing just no.of child.34
+14:01:48.196  INFO   POMclasses.BaseClass -Scenario is successfull and all files are closed
+14:16:35.149  INFO   POMclasses.BaseClass -Inside the rob page
+14:16:35.681  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:16:35.958  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:16:36.626  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:16:36.977  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:16:37.548  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:16:37.890  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:16:38.143  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:16:38.895  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:16:39.163  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:16:39.163  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:16:39.402  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:16:39.666  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:16:39.666  INFO   POMclasses.BaseClass -Inside the rob page
+14:17:10.294  ERROR  StepDefinitions.Hooks -The scenario got failedAll search fields are entered except checkboxes and increasing just no.of child.34
+14:17:11.274  INFO   POMclasses.BaseClass -Scenario is successfull and all files are closed
+14:20:48.138  INFO   POMclasses.BaseClass -Inside the rob page
+14:20:48.708  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:20:48.905  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:20:49.561  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:20:49.953  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:20:50.560  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:20:50.900  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:20:51.140  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:20:51.888  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:20:52.156  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:20:52.157  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:20:52.395  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:20:52.679  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:20:52.680  INFO   POMclasses.BaseClass -Inside the rob page
+14:21:23.301  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+14:21:24.302  INFO   POMclasses.BaseClass -All opened files are closed
+14:28:05.772  INFO   POMclasses.BaseClass -Inside the rob page
+14:28:16.093  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+14:28:17.368  INFO   POMclasses.BaseClass -All opened files are closed
+14:29:32.926  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:29:33.208  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:29:33.906  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:29:34.275  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:29:34.841  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:29:35.162  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:29:35.418  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:29:36.151  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:29:36.418  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:29:36.418  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:29:36.648  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:29:36.896  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:29:36.897  INFO   POMclasses.BaseClass -Inside the rob page
+14:29:47.202  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+14:29:48.261  INFO   POMclasses.BaseClass -All opened files are closed
+14:34:47.162  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:34:47.391  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:34:48.056  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:34:48.449  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:34:49.061  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:34:49.422  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:34:49.672  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:34:50.451  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:34:50.719  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:34:50.719  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:34:50.968  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:34:51.216  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:34:51.216  INFO   POMclasses.BaseClass -Inside the rob page
+14:34:51.690  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+14:42:26.301  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:42:26.598  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:42:27.269  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:42:27.605  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:42:28.180  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:42:28.509  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:42:28.760  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:42:29.543  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:42:29.824  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:42:29.824  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:42:30.070  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:42:30.319  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:42:30.319  INFO   POMclasses.BaseClass -Inside the rob page
+14:42:30.661  INFO   POMclasses.BaseClass -Exiting the robo page
+14:43:01.000  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+14:43:02.035  INFO   POMclasses.BaseClass -All opened files are closed
+14:47:34.856  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+14:47:35.115  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+14:47:35.809  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+14:47:36.166  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+14:47:36.764  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+14:47:37.103  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+14:47:37.349  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+14:47:38.089  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:47:38.350  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+14:47:38.351  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+14:47:38.579  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+14:47:38.832  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+14:47:38.833  INFO   POMclasses.BaseClass -Inside the rob page
+14:47:40.369  INFO   POMclasses.BaseClass -Exiting the robo page
+14:48:10.720  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+14:48:11.810  INFO   POMclasses.BaseClass -All opened files are closed
+15:41:34.827  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+15:41:35.040  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+15:41:35.729  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+15:41:36.074  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+15:41:36.680  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+15:41:37.004  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+15:41:37.263  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+15:41:38.051  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+15:41:38.323  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+15:41:38.323  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+15:41:38.573  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+15:41:38.817  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+15:41:38.832  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+15:41:40.592  INFO   POMclasses.BaseClass -All opened files are closed
+15:54:35.598  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+15:54:35.896  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+15:54:36.540  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+15:54:36.876  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+15:54:37.466  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+15:54:37.788  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+15:54:38.028  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+15:54:38.768  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+15:54:39.024  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+15:54:39.024  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+15:54:39.251  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+15:54:40.814  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+15:54:41.860  INFO   POMclasses.FlightsPage_Factory -Inside the rob page
+15:54:42.024  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+15:54:43.199  INFO   POMclasses.BaseClass -All opened files are closed
+15:58:37.549  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+15:59:54.868  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+15:59:56.371  INFO   POMclasses.FlightsPage_Factory -Inside the rob page
+16:10:29.191  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:12:46.234  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:13:43.708  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:20:14.876  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:23:53.184  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:27:02.304  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:27:46.832  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:29:13.885  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:29:28.718  INFO   POMclasses.FlightsPage_Factory -Everywhere in destination country field is displayed in result page? true
+16:30:16.285  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:30:17.698  INFO   POMclasses.FlightsPage_Factory -Everywhere in destination country field is displayed in result page? true
+16:31:15.425  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:31:16.836  INFO   POMclasses.FlightsPage_Factory -Everywhere in destination country field is displayed in result page? true
+16:46:11.080  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+16:46:11.340  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+16:46:11.980  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+16:46:12.325  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+16:46:12.932  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+16:46:13.304  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+16:46:13.550  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+16:46:14.317  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+16:46:14.576  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+16:46:14.577  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+16:46:14.803  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+16:46:15.046  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:46:45.910  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+16:46:46.841  INFO   POMclasses.BaseClass -All opened files are closed
+16:51:41.067  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+16:51:41.301  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+16:51:42.011  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+16:51:42.383  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+16:51:42.969  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+16:51:43.292  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+16:51:43.531  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+16:51:44.319  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+16:51:44.586  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+16:51:44.587  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+16:51:44.836  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+16:51:45.081  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:52:17.449  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+16:52:18.436  INFO   POMclasses.BaseClass -All opened files are closed
+16:57:36.663  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+16:57:36.945  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+16:57:37.611  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+16:57:37.927  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+16:57:38.536  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+16:57:38.886  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+16:57:39.128  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+16:57:39.896  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+16:57:40.161  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+16:57:40.162  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+16:57:40.398  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+16:57:40.635  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+16:58:13.042  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+16:58:14.104  INFO   POMclasses.BaseClass -All opened files are closed
+16:59:02.220  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:00:18.083  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:05:27.447  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+17:12:54.989  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+17:12:55.234  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+17:12:56.044  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+17:12:56.449  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+17:12:57.021  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+17:12:57.354  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+17:12:57.619  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+17:12:58.400  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:12:58.685  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:12:58.686  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+17:12:58.960  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+17:12:58.967  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+17:13:00.530  INFO   POMclasses.BaseClass -All opened files are closed
+17:14:38.088  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+17:14:38.379  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+17:14:39.074  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+17:14:39.457  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+17:14:40.075  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+17:14:40.394  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+17:14:40.640  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+17:14:41.403  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:14:41.690  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:14:41.691  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+17:14:41.920  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+17:14:42.165  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:15:14.519  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+17:15:15.524  INFO   POMclasses.BaseClass -All opened files are closed
+17:20:36.548  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+17:20:36.785  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+17:20:37.470  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+17:20:37.828  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+17:20:38.425  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+17:20:38.752  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+17:20:38.996  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+17:20:39.797  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:20:40.078  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:20:40.079  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+17:20:40.303  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+17:20:40.554  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:20:42.573  INFO   POMclasses.BaseClass -Inside the rob page
+17:20:42.589  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+17:20:43.706  INFO   POMclasses.BaseClass -All opened files are closed
+17:23:39.444  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+17:23:39.743  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+17:23:40.451  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+17:23:40.838  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+17:23:41.422  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+17:23:41.743  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+17:23:41.983  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+17:23:42.768  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:23:43.048  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:23:43.049  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+17:23:43.283  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+17:23:43.521  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:23:45.540  INFO   POMclasses.BaseClass -Inside the rob page
+17:23:45.614  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+17:23:46.528  INFO   POMclasses.BaseClass -All opened files are closed
+17:26:44.102  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+17:26:44.303  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+17:26:45.100  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+17:26:45.427  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+17:26:45.994  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+17:26:46.314  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+17:26:46.555  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+17:26:47.299  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:26:47.572  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+17:26:47.573  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+17:26:47.825  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+17:26:48.754  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:26:50.766  INFO   POMclasses.BaseClass -Inside the rob page
+17:26:55.788  INFO   POMclasses.BaseClass -Successfully authenticated the robo page
+17:27:26.122  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+17:27:27.128  INFO   POMclasses.BaseClass -All opened files are closed
+17:32:22.939  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:32:47.087  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+17:33:03.245  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+18:31:14.892  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+18:31:15.105  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+18:31:15.790  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+18:31:16.132  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+18:31:16.731  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+18:31:17.071  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+18:31:17.322  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+18:31:18.058  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:31:18.336  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:31:18.337  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+18:31:18.580  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+18:31:18.853  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+18:31:20.866  INFO   POMclasses.BaseClass -Inside the rob page
+18:31:25.884  INFO   POMclasses.BaseClass -Successfully authenticated the robo page
+18:31:56.227  ERROR  StepDefinitions.Hooks -The scenario got failed : All search fields are entered except checkboxes and increasing just no.of child. Line: 34
+18:31:57.416  INFO   POMclasses.BaseClass -All opened files are closed
+18:34:09.700  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+18:34:09.900  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+18:34:10.932  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+18:34:11.720  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+18:34:12.737  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+18:34:13.551  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+18:34:14.286  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+18:34:16.053  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:34:16.360  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:34:16.361  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+18:34:17.091  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+18:34:17.824  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+18:34:33.853  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page? true
+18:34:33.886  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page? true
+18:34:34.767  INFO   POMclasses.BaseClass -All opened files are closed
+18:35:31.498  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+18:35:31.749  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+18:35:32.441  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+18:35:32.774  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+18:35:33.384  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+18:35:33.709  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+18:35:33.965  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+18:35:34.730  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:35:35.055  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:35:35.056  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+18:35:35.301  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+18:35:40.076  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+18:35:42.129  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page? true
+18:35:42.174  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page? true
+18:35:43.273  INFO   POMclasses.BaseClass -All opened files are closed
+18:35:59.877  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+18:36:00.135  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+18:36:00.798  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
+18:36:01.111  INFO   POMclasses.FlightsPage_Factory -Departure date is selected
+18:36:01.692  INFO   POMclasses.FlightsPage_Factory -Return month and year is selected
+18:36:02.019  INFO   POMclasses.FlightsPage_Factory -Return date is selected
+18:36:02.271  INFO   POMclasses.FlightsPage_Factory -Traveller Drop Down is clicked
+18:36:03.097  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:36:03.377  INFO   POMclasses.FlightsPage_Factory -1st child age is selected
+18:36:03.378  INFO   POMclasses.FlightsPage_Factory -2nd child age is selected
+18:36:03.618  INFO   POMclasses.FlightsPage_Factory -Done button is clicked in travellers Drop Down Menu
+18:36:03.877  INFO   POMclasses.FlightsPage_Factory -Search Button is clicked
+18:36:05.929  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page? true
+18:36:05.979  INFO   POMclasses.FlightsPage_Factory -No of travellers is displayed in result page? true
+18:36:06.949  INFO   POMclasses.BaseClass -All opened files are closed
+18:42:04.428  INFO   POMclasses.FlightsPage_Factory -Origin Field is entered
+18:42:04.699  INFO   POMclasses.FlightsPage_Factory -Desparture Field is entered
+18:42:05.375  INFO   POMclasses.FlightsPage_Factory -Departure month and year is selected
