@@ -3,8 +3,10 @@ The first thing you need is Java8 or higher version to run this program.We recom
 
 1. Before going further first you need to either clone this repository or download as a zip file.
 
-2. If you aee cloning it .Clone this repository to you local director in your java workspace.
-
+2. If you are cloning it .Clone this repository to you local director in your java workspace.
+        Create a directory where you want to clone the project. Make sure the directory is new and empty. Use the below command in your windows cmd prompt
+        git clone https://github.com/Surendiran1992/skyscanner-flight-search-module
+        
 3. If you are download it. First unzip it and go to your java workspace and import the project.
 
 4. Next- Go to project directory in your desktop and type execute the command prompt from there by typing "cmd" in the location bar.
