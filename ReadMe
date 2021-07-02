@@ -1,0 +1,28 @@
+This will eloborate on how to run the test cases for the skycanner flight search page test. Hope you will enjoy.Sit back and relax while test cases are executing.
+The first thing you need is Java8 or higher version to run this program.We recommend you using Java 16.0.1. The program was built on Java 16.0.1
+
+1. Before going further first you need to either clone this repository or download as a zip file.
+
+2. If you aee cloning it .Clone this repository to you local director in your java workspace.
+
+3. If you are download it. First unzip it and go to your java workspace and import the project.
+
+4. Next- Go to project directory in your desktop and type execute the command prompt from there by typing "cmd" in the location bar.
+
+5. Once you are in the command prompt type ' mvn dependency:sources '
+    Wait for maven to download all the dependencies of the project
+    
+6. Steps to execute the test script:
+
+There are three ways to run the Automation test
+1.Via Command prompt - Once you are in the command prompt window type   ' mvn test '.
+
+2.Via Xml file - Go to project in java IDE and go to the path src/test/resources/FlightPage.xml and right click the file and run as TESTNG Suite. 
+
+3.Via Runner File - Go to project in java IDE and go to the path src/test/java/TestRunner/TestRunner.java and open the file and run as TESTNG Suite.
+ 
+ 7. Now sit back and relax
+ 
+ 8. Once all test cases ae executed go to  "test-output/emailable-report.html" file in the project directory.
+ 
+ 9. Open the file to view the report of execution.
